@@ -1,0 +1,9 @@
+# A list of javascript files required for the project, in dependency order
+javascripts:
+  files:
+    - app/Player.js
+    - app/Song.js
+  specs:
+    - spec/SpecHelper.js
+    - spec/PlayerSpec.js
+    - spec/OtherSpec.js
